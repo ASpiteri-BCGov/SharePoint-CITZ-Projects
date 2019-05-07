@@ -1,6 +1,6 @@
- # WTRP Application Documentation
+# WTRP Application Documentation
 
-## CITZ SharePoint Support Team
+### CITZ SharePoint Support Team
 Published : 05-07-2019
 
 #### Team Members
@@ -10,7 +10,7 @@ Scott Toews
                                                                                                       
 
 
-# Contents
+## Contents
 
 |               |               | 
 | ------------- | -------------:|
