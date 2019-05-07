@@ -1,5 +1,6 @@
-# WTRP Application Documentation
+ # WTRP Application Documentation
 
+![alt text](https://c.s-microsoft.com/en-us/CMSImages/AppTile_SharePoint_68x68.png "Logo Title Text 1")
 ## CITZ SharePoint Support Team
 Published : 05-07-2019
 
