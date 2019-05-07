@@ -14,9 +14,9 @@ Scott Toews
 
 |               |               | 
 | ------------- | -------------:|
-| 1 Intro     | 
-| 2 Something |
-| 3 Something |
+| 1 Intro     
+| 2 Something 
+| 3 Something 
 
 auto_id_prefix  
 
