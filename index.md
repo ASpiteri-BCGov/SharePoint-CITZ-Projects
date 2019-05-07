@@ -3,6 +3,10 @@
 ### CITZ SharePoint Support Team
 05-07-2019
 
+### Team Members
+Adam Spiteri
+Scott Toews
+
                                                                                                       
 ### Contents
 
