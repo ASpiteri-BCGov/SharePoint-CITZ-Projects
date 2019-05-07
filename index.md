@@ -14,7 +14,7 @@ Scott Toews
 
 |               |               | 
 | ------------- | -------------:|
-| col 3 is      | right-aligned |
+| 1 Intro      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
