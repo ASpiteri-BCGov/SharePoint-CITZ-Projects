@@ -1,7 +1,8 @@
-```python
-s = "Python syntax highlighting"
-print s
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
+
 # WTRP Application Documentation
 
 ## CITZ SharePoint Support Team
