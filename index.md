@@ -1,12 +1,8 @@
-{% if page.show_sidebar %}
-  <div class="sidebar">
-    sidebar content
-  </div>
-{% endif %}
+
 # WTRP Application Documentation
 
 ## CITZ SharePoint Support Team
-05-07-2019
+Published : 05-07-2019
 
 ### Team Members
 Adam Spiteri  
