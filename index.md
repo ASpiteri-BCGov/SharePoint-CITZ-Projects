@@ -1,4 +1,7 @@
-
+```python
+s = "Python syntax highlighting"
+print s
+```
 # WTRP Application Documentation
 
 ## CITZ SharePoint Support Team
