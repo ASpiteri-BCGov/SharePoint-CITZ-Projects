@@ -14,9 +14,9 @@ Scott Toews
 
 |               |               | 
 | ------------- | -------------:|
-| 1 Intro      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| 1 Intro     | 
+| 2 Something |
+| 3 Something |
 
 auto_id_prefix  
 
