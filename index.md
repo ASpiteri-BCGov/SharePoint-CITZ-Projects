@@ -14,7 +14,7 @@ Scott Toews
 
 |               |               | 
 | ------------- | -------------:|
-| 1 Intro     
+| 1 Introduction     
 | 2 Something 
 | 3 Something 
 
