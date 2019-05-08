@@ -1,7 +1,7 @@
 # WTRP Application Documentation
 
-### CITZ SharePoint Support Team
-Published : 05-07-2019
+### CITZ SharePoint Support Team    
+Published : 05-07-2019     
 
 #### Team Members
 Adam Spiteri  
