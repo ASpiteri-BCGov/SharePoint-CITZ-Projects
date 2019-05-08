@@ -23,5 +23,5 @@ Scott Toews
 
 
 
-![alt text](https://github.com/ASpiteri-BCGov/SharePoint-CITZ-Projects/blob/master/ProjectWorkflowWTRP.png "Logo Title Text 1")
+![alt text](ProjectWorkflowWTRP.png "Logo Title Text 1")
 
