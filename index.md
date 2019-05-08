@@ -19,5 +19,5 @@ Something    -------------------------------------------------------------------
 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/ASpiteri-BCGov/SharePoint-CITZ-Projects/blob/master/ProjectWorkflow.png "Logo Title Text 1")
 
