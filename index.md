@@ -15,7 +15,7 @@ Scott Toews
 | Introduction       |            | 1  |
 | ------------- |:-------------:| -----:|
 | Something      |  | 2|
-| Something      |       |   3 |
+| Something      |       |   3 |  
 
 
 
